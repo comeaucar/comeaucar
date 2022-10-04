@@ -1,4 +1,4 @@
-### Hi there, I am Carter Comeau 👋
+### Hi there, I'm Carter Comeau 👋
 
 💻 Graduated from George Brown College in Computer Programming & Analysis
 Currently enrolled at the University of Windsor for Computer Science
