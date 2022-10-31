@@ -1,4 +1,4 @@
-### Hi there, I'm Carter Comeau 👋
+### Carter Comeau
 
 💻 Graduated from George Brown College in Computer Programming & Analysis
 
