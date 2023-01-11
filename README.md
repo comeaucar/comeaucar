@@ -4,8 +4,8 @@
 
 💻 Graduated from George Brown College in Computer Programming & Analysis
 
-- ⚒️ Java / TypeScript / C# / Python
-- ⚙️ Angular / React / React Native / Ionic
+- ⚒️ Java / TypeScript / C / Python
+- ⚙️ Angular / React / React Native / Ionic / Spring / ASP.net
 - 📫 How to reach me: cartercomeau@icloud.com
 
 <!--START_SECTION:waka-->
