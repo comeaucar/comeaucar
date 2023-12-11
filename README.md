@@ -11,15 +11,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 October 2021 - To: 08 December 2023
+From: 21 October 2021 - To: 10 December 2023
 
-Total Time: 800 hrs 8 mins
+Total Time: 803 hrs 12 mins
 
-TypeScript       312 hrs 58 mins >>>>>>>>>>---------------   39.12 %
-HTML             195 hrs 50 mins >>>>>>-------------------   24.48 %
-JavaScript       128 hrs 41 mins >>>>---------------------   16.08 %
-C                56 hrs 56 mins  >>-----------------------   07.12 %
-Java             47 hrs 17 mins  >------------------------   05.91 %
+TypeScript       314 hrs 21 mins >>>>>>>>>>---------------   39.14 %
+HTML             197 hrs 20 mins >>>>>>-------------------   24.57 %
+JavaScript       128 hrs 41 mins >>>>---------------------   16.02 %
+C                56 hrs 56 mins  >>-----------------------   07.09 %
+Java             47 hrs 17 mins  >------------------------   05.89 %
 ```
 
 <!--END_SECTION:waka-->
