@@ -1,6 +1,6 @@
 ### Carter Comeau
 
-💻 Computer Science graduate from Univeristy of Windsor
+💻 University of Windsor Comp. Sci Graduate
 
 - ⚒️ Java / TypeScript / C / Python
 - ⚙️ Angular / React / React Native / Ionic / Spring / ASP.net
