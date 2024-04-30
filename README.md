@@ -1,8 +1,6 @@
 ### Carter Comeau
 
-🙋‍♂️ Currently enrolled at the University of Windsor for Computer Science
-
-💻 Graduated from George Brown College in Computer Programming & Analysis
+💻 Computer Science graduate from Univeristy of Windsor
 
 - ⚒️ Java / TypeScript / C / Python
 - ⚙️ Angular / React / React Native / Ionic / Spring / ASP.net
