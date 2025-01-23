@@ -9,7 +9,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 October 2021 - To: 21 January 2025
+From: 21 October 2021 - To: 22 January 2025
 
 Total Time: 1,388 hrs 20 mins
 
